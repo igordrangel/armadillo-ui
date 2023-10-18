@@ -4,7 +4,8 @@
   "compilerOptions": {
     "paths": {
       "@igordrangel/armadillo-ui/*": ["projects/armadillo-ui/*"],
-      "@igordrangel/armadillo-ui/ui": ["projects/armadillo-ui"]
+      "@igordrangel/armadillo-ui/button": ["projects/armadillo-ui/button"],
+      "@igordrangel/armadillo-ui/dialog": ["projects/armadillo-ui/dialog"]
     },
     "baseUrl": "./",
     "outDir": "./dist/out-tsc",
